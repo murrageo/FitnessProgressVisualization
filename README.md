@@ -15,12 +15,14 @@ Base Requirements:
 - User-defined categories arranged visually. Drop-down menus for units. 
 - Input exercise-related data as CSV
 - Visualize data in information-dense yet interpretable plots
-- Call attention to areas of growth (and areas of stagnation)
+- Establish baseline for each category
+- Show current level as compared to baseline
+- Call attention to areas of growth (and areas of stagnation) - trend plots, i.e. up 2% in green or down 5% in red with arrows. 
 
 Bonus Requirements:
 - User interface (deployed online, on Apple and Android)
 - Option to input data through image (automatic parsing) or text field on app
 - Secure user data storage / ethical analytics
 - Trend analysis of user data (pull in public data sources)  / ethical analytics
-- Automated recommendations
+- Automated recommendations to accelerate improvements
 - Gamification for progress and to break-through plateaus
